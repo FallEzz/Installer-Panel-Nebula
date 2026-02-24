@@ -1,46 +1,24 @@
-# 🚀 Project Name
+# 🌌 Nebula Installer Style
 
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Shell](https://img.shields.io/badge/Shell-Bash-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![Version](https://img.shields.io/badge/Version-1.0.0-blue)
-![Made With](https://img.shields.io/badge/Made%20With-Node.js-brightgreen)
 
 ---
 
 ## 📌 Deskripsi
-**Project Name** adalah sebuah project yang dibuat untuk  
-`(jelaskan fungsi singkat project kamu, contoh: bot WhatsApp, automation tool, web app, dll)`.
+**Nebula Installer Style** adalah script installer berbasis **Bash** yang digunakan untuk
+mengatur tampilan, konfigurasi, dan blueprint sistem **Nebula Panel / Environment**.
 
-Project ini dibuat dengan tujuan:
-- 🔥 Efisien
-- ⚡ Mudah digunakan
-- 🧠 Cocok untuk belajar & production
-
----
-
-## ✨ Fitur
-- ✅ Fitur utama 1
-- ✅ Fitur utama 2
-- ✅ Fitur utama 3
-- 🚀 Fast & Lightweight
-- 🔐 Aman dan stabil
+Project ini dibuat agar:
+- ⚡ Setup lebih cepat
+- 🎨 Tampilan installer lebih rapi
+- 🧠 Mudah dipahami & dimodifikasi
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
-- Node.js
-- JavaScript
-- NPM
-- Git & GitHub
-
----
-
-## 📂 Struktur Folder
+## 📂 Struktur Repository
 ```bash
-project-name/
-├── src/
-│   ├── index.js
-│   └── config.js
-├── package.json
-├── README.md
-└── LICENSE
+.
+├── nebula.blueprint
+└── nebulaStyle.sh
