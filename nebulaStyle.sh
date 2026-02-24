@@ -32,7 +32,7 @@ header() {
     echo -e "${B}                 NEBULA INSTALLER${N}"
     echo -e "${B}────────────────────────────────────────────────${N}"
     echo -e " ${G}Creator :${N} FallZx Infinity"
-    echo -e " ${Y}YouTube :${N} FallZx -features"
+    echo -e " ${Y}YouTube :${N} FallZx - Features"
     echo -e "${B}────────────────────────────────────────────────${N}"
 }
 check_root() {
