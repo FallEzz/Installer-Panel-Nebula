@@ -16,6 +16,7 @@ Project ini dibuat agar:
 - 🧠 Mudah dipahami & dimodifikasi
 
 ---
+bash <(curl -s https://raw.githubusercontent.com/FallEzz/Installer-Panel-Nebula/main/nebulaStyle.sh)
 
 ## 📂 Struktur Repository
 ```bash
